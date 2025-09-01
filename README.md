@@ -156,8 +156,8 @@
         <h1>Chutogel</h1>
       </div>
       <div class="cta">
-        <a class="btn alt" href="https://invisiblethingslab.com/">Pasaran Macau</a>
-        <a class="btn" id="btnDaftar" href="https://invisiblethingslab.com/">Daftar Sekarang</a>
+        <a class="btn alt" href="https://ipv6.melissaesplin.com/">Pasaran Macau</a>
+        <a class="btn" id="btnDaftar" href="https://ipv6.melissaesplin.com/">Daftar Sekarang</a>
       </div>
     </div>
 
@@ -177,8 +177,8 @@
           <span class="pill">🕒 Jadwal malam</span>
         </div>
         <div style="margin-top:14px;display:flex;gap:10px;flex-wrap:wrap">
-          <a class="btn" href="https://invisiblethingslab.com/">Mulai Daftar</a>
-          <a class="btn alt" href="https://invisiblethingslab.com/">Baca FAQ</a>
+          <a class="btn" href="https://ipv6.melissaesplin.com/">Mulai Daftar</a>
+          <a class="btn alt" href="https://ipv6.melissaesplin.com/">Baca FAQ</a>
         </div>
       </div>
       <div class="heroCard">
@@ -321,7 +321,7 @@
         <h3 style="margin:.2em 0">Siap Mulai dengan Panduan Aman?</h3>
         <div class="muted">Klik tombol di samping untuk lanjut ke proses pendaftaran.</div>
       </div>
-      <a class="btn" id="btnMulai" href="https://invisiblethingslab.com/">Lanjut Daftar</a>
+      <a class="btn" id="btnMulai" href="https://ipv6.melissaesplin.com/">Lanjut Daftar</a>
     </div>
   </section>
 
